@@ -1,0 +1,41 @@
+body{
+  background-color: #eee;
+}
+
+.content{
+  background-color: #1F2937;
+  
+  /* color: #F9FAF8;   */
+}
+
+.header{
+display:flex;
+}
+
+.nav-bar{
+flex:1;
+}
+
+#header-logo{
+  font-size:24px;
+  color: #F9FAF8;
+}
+
+.nav-bar ul li, .nav-bar a{
+  font-size: 18px;
+  color: #E5E7EB;
+  text-decoration: none;
+  list-style-type: none;
+  
+}
+
+#title {
+  font-size: 48px;
+  color: #F9FAF8;
+}
+
+
+
+
+
+
